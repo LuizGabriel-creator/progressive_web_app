@@ -11,6 +11,6 @@ Aluno adicione seu nome de usuario no github, seu nome completo e o link de sua 
 <TR> 
 <TD> Luiz Gabriel Monteiro </TD>
 <TD> @LuizGabriel-creator </TD>
-<TD> <a href="https://github.com/iurygdeoliveira"> </a></TD>
+<TD> <a href="https://github.com/iurygdeoliveira">https://github.com/LuizGabriel-creator</a></TD>
 <TR> 
 </TABLE>
